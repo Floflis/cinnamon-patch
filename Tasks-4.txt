@@ -1,8 +1,0 @@
-check if current cinnamon version matches that of currentversion.txt before ru(i)nning
-
-sudo cp -f js/ui/panel.js /usr/share/cinnamon/js/ui/
-sudo cp -f files/usr/share/cinnamon/cinnamon-settings/cinnamon-settings.py /usr/share/cinnamon/cinnamon-settings/
-
-files/usr/share/cinnamon/cinnamon-settings/cinnamon-settings.py: IPFS button
-
-/usr/share/cinnamon/cinnamon-settings-users

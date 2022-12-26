@@ -1,3 +1,0 @@
-files/usr/share/cinnamon/cinnamon-settings/cinnamon-settings.py: IPFS button
-
-/usr/share/cinnamon/cinnamon-settings-users

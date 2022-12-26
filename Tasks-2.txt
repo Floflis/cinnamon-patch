@@ -1,3 +1,0 @@
-check if current cinnamon version matches that of currentversion.txt before ru(i)nning
-
-sudo cp -f panel.js /usr/share/cinnamon/js/ui/
