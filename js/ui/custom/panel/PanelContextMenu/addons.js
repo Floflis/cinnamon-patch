@@ -3,10 +3,10 @@
 function a(){
 log("Running ui/custom/panel/PanelContextMenu Function A");
 //As for uncommenting previously, depends on uncommenting the bellow as well:
-CustomPanelContextMenusystemmonitor.a();
+//CustomPanelContextMenusystemmonitor.a();
 };
 function b(){
 log("Running ui/custom/panel/PanelContextMenu Function B");
 //Finalizing, uncommenting the bellow, too:
-CustomPanelContextMenusystemmonitor.b();
+//CustomPanelContextMenusystemmonitor.b();
 };
