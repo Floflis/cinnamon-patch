@@ -1,3 +1,5 @@
+add to Tasks.txt: has GH issues https://github.com/Floflis/cinnamon-patch/issues
+
 files/usr/share/cinnamon/cinnamon-settings/cinnamon-settings.py: IPFS button
 
 /usr/share/cinnamon/cinnamon-settings-users
